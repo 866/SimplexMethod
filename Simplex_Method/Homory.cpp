@@ -2,9 +2,7 @@
 
 
 inline double CHomory::fractPart(double fraction)
-{
 	return (fraction - floor(fraction));
-}
 
 int CHomory::getMaxFract()
 {
